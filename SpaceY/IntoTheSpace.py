@@ -1,0 +1,1 @@
+print("Welcome to SpaceY program. We are ready to take off")
